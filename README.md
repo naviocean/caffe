@@ -12,8 +12,8 @@ Check out the [project site](http://caffe.berkeleyvision.org) for all the detail
 - [Tutorial Documentation](http://caffe.berkeleyvision.org/tutorial/)
 - [BAIR reference models](http://caffe.berkeleyvision.org/model_zoo.html) and the [community model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 - [Installation instructions](http://caffe.berkeleyvision.org/installation.html)
+#### For Mac:
 ```
-For Mac:
 - brew install openblas
 - change config blas in Makefile.config BLAS=atlas to BLAS=open
 ```
