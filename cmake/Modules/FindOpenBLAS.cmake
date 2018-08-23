@@ -1,7 +1,7 @@
 
 
 SET(Open_BLAS_INCLUDE_SEARCH_PATHS
-  /usr/local/Cellar/openblas/0.2.20/include
+  /usr/local/opt/openblas/include
   /usr/include
   /usr/include/openblas
   /usr/include/openblas-base
@@ -14,7 +14,7 @@ SET(Open_BLAS_INCLUDE_SEARCH_PATHS
 )
 
 SET(Open_BLAS_LIB_SEARCH_PATHS
-        /usr/local/Cellar/openblas/0.2.20/lib
+        /usr/local/opt/openblas/lib
         /lib/
         /lib/openblas-base
         /lib64/
